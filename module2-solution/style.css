@@ -6,7 +6,7 @@ h1{text-align:center;}
 .title1{background-color:red;}
 .title2{background-color:blue;}
 .title3{background-color:green;}
-.col-sm-12{margin-right:2%; margin-left:2%;float:left; width:96%;}
+.col-sm-12{margin-right:2%; margin-left:2%;float:left;margin-bottom:3%; width:96%;}
 body>div>div>p:nth-child(1){border:2px solid black;font-size:30px;position:relative; top:-34px; right:-4px; width:38%; text-align:center; float:right;}
 
 body>div>div{background-color:grey; 
